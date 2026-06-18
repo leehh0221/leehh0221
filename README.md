@@ -111,7 +111,7 @@ AI 기술을 실제 제품으로 구현하는 데 집중하며, 새 기술을 �
 ### 🟣 [TypingX](https://typx.ai) — AI 인터랙티브 콘텐츠 생성 플랫폼 · **백/프론트/인프라 주도(팀)**
 `현 직장` · `FastAPI · React · AWS EKS · 멀티 LLM`
 - **인프라 비용 최적화** — EKS **노드 3→1**, 미사용 DocumentDB 제거(−$270/월), 관측성 정리(CloudWatch·AMP −$100/월) → **월 운영비 대폭 절감**
-- **무중단 GitOps 운영** — ArgoCD + Kustomize(base/overlays), HPA 재튜닝
+- **무중단 GitOps 운영** — ArgoCD + Kustomize(base/overlays), HPA 재튜닝, **Trivy 보안 스캔**(완전 GitOps 자동화)
 - **멀티 LLM 추상화** — Gemini·OpenAI·Claude·xAI를 LangChain/LangGraph로 교체 유연화
 - **다국어 자동 번역** 시스템 백엔드 구축
 
@@ -119,7 +119,7 @@ AI 기술을 실제 제품으로 구현하는 데 집중하며, 새 기술을 �
 `현 직장` · `FastAPI · pgvector · LLM · TTS · 3D(VRM)`
 - **응답 속도 개선** — RAG MMR numpy 벡터화로 첫 응답 **4초 → ~1.4초**
 - **RAG 파이프라인 직접 설계** — pgvector cosine + MMR + 최신가중 + 키워드 하이브리드
-- NDJSON 스트리밍 · 임베딩 병렬화 · 14개국어 · 감정 엔진 · 자동 이동
+- NDJSON 스트리밍 · 임베딩 병렬화 · 15개국어 · 감정 엔진 · 자동 이동
 
 ### 🟠 실시간 강의 번역 서비스 · **단독**
 `현 직장` · `WebSocket · Redis Pub/Sub · Google STT v2 · Gemini`
