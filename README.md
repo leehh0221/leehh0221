@@ -106,7 +106,7 @@ AI 기술을 실제 제품으로 구현하는 데 집중하며, 새 기술을 �
 - **대규모 도메인 설계·운영** — 30개 도메인 · 60+ 테이블 · ~216 API (프로젝트 2,222 커밋, 본인 **84%**)
 - **결제 시스템 구축** — NicePay 승인·취소·환불 전체 흐름 + 환불 이력 Audit Trail로 정합성 관리
 - **조회 성능** — N+1 제거 11건 · QueryDSL **fetch join 129+** 적용
-- **CI/CD 구축** — **GitHub Actions → ECR → ECS** 자동 배포(master push 트리거, ARM64 롤링 배포) + 병렬 테스트(test1/test2)로 테스트 시간 **약 50%↓**
+- **CI/CD & 배포 전환** — GitHub Actions → ECR → **ECS** 자동 배포 구축, 이후 **비용 절감을 위해 EC2·docker-compose로 통합** · 병렬 테스트(test1/test2)로 테스트 시간 **약 50%↓**
 
 ### 🟣 [TypingX](https://typx.ai) — AI 인터랙티브 콘텐츠 생성 플랫폼 · **백/프론트/인프라 주도(팀)**
 `현 직장` · `FastAPI · React · AWS EKS · 멀티 LLM`
