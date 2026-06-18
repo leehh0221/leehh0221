@@ -74,40 +74,57 @@ AI 기술을 실제 제품으로 구현하는 데 집중하며, 새 기술을 �
 | 회사 | 기간 | 역할 |
 |:---|:---|:---|
 | **(주)바이브에듀** | 2025.12 ~ 재직중 | AI 솔루션팀 · **AI PRO FDE** — 백엔드 · 프론트엔드 · 인프라 |
-| **(주)예자일** | 2023.10 ~ 2025.05 | 백엔드 (Artmosphere 리드) |
+| **(주)예자일** | 2023.10 ~ 2025.05 | 백엔드 (vingbeing 리드) |
 
 ---
 
 ## 📜 교육 · 자격증
 
-- 🏆 **Microsoft AI 엔지니어 2기** 우수수료생(40명 중 1명) · 대한상공회의소 `2025.08~12`
-- 🎓 자바 기반 웹 개발자 양성 · KH정보교육원 `2023` *(개발 전환)*
-- 📄 **AICE ASSOCIATE** · **SQLD(SQL 개발자)** · 네트워크관리사 2급
-- 🏫 컴퓨터공학 학사(학점은행제) 취득 진행 중
+### 🎓 교육
+- 🏆 **Microsoft AI 엔지니어 2기** · 대한상공회의소 `2025.08 ~ 2025.12`
+  머신러닝·딥러닝 기초부터 **Transformer/Attention**·Azure까지 — **우수수료생 선정 (40명 중 1명)**
+- **자바 기반 반응형 웹 개발자 양성** · KH정보교육원 `2023.02 ~ 2023.07` *(개발 전환 부트캠프)*
+- **컴퓨터공학 학사** (학점은행제) · 취득 진행 중
+
+### 📜 자격증
+![AICE ASSOCIATE](https://img.shields.io/badge/AICE_ASSOCIATE-00A8E0?style=for-the-badge&logoColor=white)
+![SQLD](https://img.shields.io/badge/SQLD_·_SQL개발자-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![네트워크관리사 2급](https://img.shields.io/badge/네트워크관리사_2급-2E7D32?style=for-the-badge)
+
+| 자격증 | 발급기관 | 취득일 |
+|:---|:---|:---|
+| **AICE ASSOCIATE** — AI 활용능력 | KT · 한국경제신문 | 2025.10 |
+| **SQLD** — SQL 개발자 | 한국데이터산업진흥원 | 2025.09 |
+| **네트워크관리사 2급** | 한국정보통신자격협회 | 2024.12 |
 
 ---
 
 ## 🚀 대표 경험
 
-**[Artmosphere](https://vingbeing.com) — 로컬 경험 예약·결제 플랫폼 백엔드 리드**
-`전 직장 · 약 1년 8개월`
-> Java/Spring Boot · MySQL · QueryDSL — **2,411 커밋/24개월** 백엔드 리드.
-> 30개 도메인 · 60+ 테이블 · ~216 API. NicePay 결제 **6,000+건** 처리,
-> N+1 최적화(fetch join 129+), 병렬 테스트로 CI 시간 **약 50%↓**.
+### 🟢 [vingbeing](https://vingbeing.com) — 로컬 경험 예약·결제 플랫폼 · **백엔드 리드**
+`전 직장(예자일)` · `재직 1년 8개월 + 퇴사 후 유지보수 지속` · `Java / Spring Boot · MySQL · QueryDSL`
+- **대규모 도메인 설계·운영** — 30개 도메인 · 60+ 테이블 · ~216 API (프로젝트 2,411 커밋, 본인 ~76%)
+- **결제 안정성** — NicePay 승인·취소·환불 연동, **6,000+건** 트랜잭션 무사고 운영
+- **조회 성능** — N+1 제거 11건 · QueryDSL **fetch join 129+** 적용
+- **개발 생산성** — 병렬 테스트 분리로 CI 시간 **약 50%↓**(8→4분), GitHub Actions 자동 배포
 
-**[TypingX](https://typx.ai) — AI 인터랙티브 콘텐츠 생성 플랫폼**
-`현 직장 · 팀(백/프론트/인프라 주도)`
-> FastAPI · React · **AWS EKS + ArgoCD + Kustomize** · 멀티 LLM(LangChain/LangGraph).
-> EKS **노드 3→1** 축소·미사용 DB 제거·관측성 정리로 **월 운영비 대폭 절감**, 무중단 GitOps 운영.
+### 🟣 [TypingX](https://typx.ai) — AI 인터랙티브 콘텐츠 생성 플랫폼 · **백/프론트/인프라 주도(팀)**
+`현 직장` · `FastAPI · React · AWS EKS · 멀티 LLM`
+- **인프라 비용 최적화** — EKS **노드 3→1**, 미사용 DocumentDB 제거(−$270/월), 관측성 정리(CloudWatch·AMP −$100/월) → **월 운영비 대폭 절감**
+- **무중단 GitOps 운영** — ArgoCD + Kustomize(base/overlays), HPA 재튜닝
+- **멀티 LLM 추상화** — Gemini·OpenAI·Claude·xAI를 LangChain/LangGraph로 교체 유연화
+- **다국어 자동 번역** 시스템 백엔드 구축
 
-**AI 캐릭터 음성 대화 서비스**
-`현 직장 · 단독`
-> FastAPI · **pgvector RAG** · LLM · TTS · 3D(VRM) · 14개국어.
-> RAG MMR numpy 벡터화로 첫 응답 **4초 → ~1.4초**, NDJSON 스트리밍.
+### 🔵 AI 캐릭터 음성 대화 서비스 · **단독**
+`현 직장` · `FastAPI · pgvector · LLM · TTS · 3D(VRM)`
+- **응답 속도 개선** — RAG MMR numpy 벡터화로 첫 응답 **4초 → ~1.4초**
+- **RAG 파이프라인 직접 설계** — pgvector cosine + MMR + 최신가중 + 키워드 하이브리드
+- NDJSON 스트리밍 · 임베딩 병렬화 · 14개국어 · 감정 엔진 · 자동 이동
 
-**실시간 강의 번역 서비스**
-`현 직장 · 단독`
-> **WebSocket + Redis Pub/Sub** · Google STT v2 · Gemini 번역 — 언어별 실시간 자막 팬아웃 파이프라인.
+### 🟠 실시간 강의 번역 서비스 · **단독**
+`현 직장` · `WebSocket · Redis Pub/Sub · Google STT v2 · Gemini`
+- 한국어 음성 → STT → **전공용어 보정** → LLM 번역 → **언어별 실시간 자막 팬아웃**
+- 어댑터 패턴으로 STT/번역 provider 교체 구조화, e2e 검증(백엔드 72 tests green)
 
 ---
 
