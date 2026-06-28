@@ -87,12 +87,14 @@ AI 기술을 실제 제품으로 구현하는 데 집중하며, 새 기술을 �
 - **컴퓨터공학 학사** (학점은행제) · 취득 진행 중
 
 ### 📜 자격증
+![ADSP](https://img.shields.io/badge/ADSP_·_데이터분석_준전문가-4479A1?style=for-the-badge)
 ![AICE ASSOCIATE](https://img.shields.io/badge/AICE_ASSOCIATE-00A8E0?style=for-the-badge&logoColor=white)
 ![SQLD](https://img.shields.io/badge/SQLD_·_SQL개발자-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![네트워크관리사 2급](https://img.shields.io/badge/네트워크관리사_2급-2E7D32?style=for-the-badge)
 
 | 자격증 | 발급기관 | 취득일 |
 |:---|:---|:---|
+| **ADSP** — 데이터 분석 준전문가 | 한국데이터산업진흥원 | 2025.11 |
 | **AICE ASSOCIATE** — AI 활용능력 | KT · 한국경제신문 | 2025.10 |
 | **SQLD** — SQL 개발자 | 한국데이터산업진흥원 | 2025.09 |
 | **네트워크관리사 2급** | 한국정보통신자격협회 | 2024.12 |
@@ -145,3 +147,5 @@ AI 기술을 실제 제품으로 구현하는 데 집중하며, 새 기술을 �
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leehh0221&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
+<!-- 작성: 260629-1 (ADSP 자격증 추가). 공개 허용: TypingX(typx.ai), vingbeing(vingbeing.com). 그 외 회사 제품명은 일반화 유지.
+     GitHub stats 위젯: 회사/조직 private 기여는 기본 미집계 — public 활동 위주로 표시됨. -->
