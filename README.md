@@ -163,6 +163,12 @@ Python/FastAPI · React · AWS(EKS/GitOps) · LLM 통합까지 폭넓게 다룹�
 - Supabase로 운영 앱 전환 — **행 단위 접근 규칙(RLS)**, 결제대 · 실시간 현황판 · QR · 오프라인 대비
 - PR마다 스키마를 실제 Postgres에 올려 보는 CI · **이틀간 행사 부스에서 실제 운영**
 
+### ⚙️ simvex — 3D 기계부품 분해 학습 플랫폼 · **개발 주도(해커톤 팀)**
+`2026.01 ~ 2026.02` · `Next.js · Three.js/R3F · Supabase · OpenAI`
+- **3D 분해 뷰어** — GLB 조립/분해 슬라이더(0~100%) · 부품 정보·하이라이트 · 3D 주석
+- **학습 기능** — 노트(Tiptap) · AI 어시스턴트 · 퀴즈 · PDF 내보내기
+- 모델 업로드(FBX→GLB 자동 변환) · 자동 분해 설정 생성 · 커뮤니티 모델
+
 ---
 
 ## 🧪 개인 프로젝트
@@ -176,9 +182,6 @@ Python/FastAPI · React · AWS(EKS/GitOps) · LLM 통합까지 폭넓게 다룹�
 **cli-orchestration** — Discord로 제어하는 로컬 **멀티 에이전트** CLI
 > Python · discord.py · MCP — Claude Code 지휘자가 Codex·Antigravity CLI에 일을 나눠 맡기고, 위험한 명령은 버튼으로 승인.
 
-**simvex** — 3D 기계부품 분해 학습 플랫폼 `해커톤`
-> Next.js · Three.js/R3F · Supabase · OpenAI — GLB 분해 뷰어 + 학습(노트/퀴즈/PDF).
-
 ---
 
 ## 📈 GitHub
@@ -188,4 +191,4 @@ Python/FastAPI · React · AWS(EKS/GitOps) · LLM 통합까지 폭넓게 다룹�
   <img height="160" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
-<!-- 작성: 260928-3. 통계 카드는 .github/workflows/readme-stats.yml 이 매일 생성한다. -->
+<!-- 작성: 260928-4. 통계 카드는 .github/workflows/readme-stats.yml 이 매일 생성한다. -->
