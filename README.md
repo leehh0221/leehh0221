@@ -114,19 +114,19 @@ Python/FastAPI · React · AWS(EKS/GitOps) · LLM 통합까지 폭넓게 다룹�
 
 ## 🚀 대표 경험
 
+### 🟣 [TypingX](https://typx.ai) — AI 인터랙티브 콘텐츠 생성 플랫폼 · **백/프론트/인프라 주도(팀)**
+`전 직장(바이브에듀)` · `FastAPI · React · AWS EKS · 멀티 LLM`
+- **인프라 비용 최적화** — EKS **노드 3→1**, 미사용 DocumentDB 제거(−$270/월), 관측성 정리(CloudWatch·AMP −$100/월) → **월 운영비 대폭 절감**
+- **무중단 GitOps 운영** — ArgoCD + Kustomize(base/overlays), HPA 재튜닝, **Trivy 보안 스캔**(완전 GitOps 자동화)
+- **멀티 LLM 추상화** — Gemini·OpenAI·Claude·xAI를 LangChain/LangGraph로 교체 유연화
+- **다국어 자동 번역** 시스템 백엔드 구축
+
 ### 🛒 [절친마켓](https://bf-market.com) — 1인 가구 동네 공동구매 플랫폼 · **개발 전담(2인 팀)**
 `사이드 프로젝트` · `2026.07 ~ 운영 중` · `TypeScript · Express · React · PostgreSQL · AWS`
 - **풀스택 1인 개발** — pnpm 모노레포, **OpenAPI 계약 우선**(Orval 코드 생성) · Drizzle ORM · PR **214건**
 - **자체 인프라 운영** — Replit 프로토타입을 **AWS EC2 docker-compose 단일 박스**로 이전 (nginx · Let's Encrypt · **wal-g S3 백업/PITR**)
 - **보안·개인정보** — 어드민 역할 권한 2단 구조(가드가 빠지면 닫히는 쪽으로), 개인정보 접속기록, S3 presigned 업로드
 - 구글·카카오 로그인 · 문자 알림 · 픽업/배달 · 선입금·환불 흐름
-
-### 🥕 VegRun(베지런) — Godot 모바일 게임 · **Android·Google Play 연동/출시 담당(팀)**
-`팀 프로젝트` · `2026.07 ~ 2026.09` · `Godot · GDScript · Google Play`
-- **Play 게임즈 로그인 + 클라우드 세이브** — 충돌 시 진행도 우선·유료 항목 보존 규칙
-- **인앱 결제** — 결제 성공 콜백 뒤에만 지급, 보류·취소 시 미지급, 현지 가격 실시간 표시
-- **보상형 광고(AdMob)** · 서명 AAB 빌드 스크립트 · **9개 언어 스토어 등록** → 프로덕션 심사 제출
-- 광고·결제·세이브 회귀 프로브(각 30여 단언)
 
 ### 🟢 [vingbeing](https://vingbeing.com) — 로컬 경험 예약·결제 플랫폼 · **백엔드 리드**
 `전 직장(예자일)` · `재직 1년 8개월 + 퇴사 후 유지보수 지속` · `Java / Spring Boot · MySQL · QueryDSL`
@@ -135,12 +135,12 @@ Python/FastAPI · React · AWS(EKS/GitOps) · LLM 통합까지 폭넓게 다룹�
 - **조회 성능** — N+1 제거 11건 · QueryDSL **fetch join 129+** 적용
 - **CI/CD & 배포 전환** — GitHub Actions → ECR → **ECS** 자동 배포 구축, 이후 **비용 절감을 위해 EC2·docker-compose로 통합** · 병렬 테스트(test1/test2)로 테스트 시간 **약 50%↓**
 
-### 🟣 [TypingX](https://typx.ai) — AI 인터랙티브 콘텐츠 생성 플랫폼 · **백/프론트/인프라 주도(팀)**
-`전 직장(바이브에듀)` · `FastAPI · React · AWS EKS · 멀티 LLM`
-- **인프라 비용 최적화** — EKS **노드 3→1**, 미사용 DocumentDB 제거(−$270/월), 관측성 정리(CloudWatch·AMP −$100/월) → **월 운영비 대폭 절감**
-- **무중단 GitOps 운영** — ArgoCD + Kustomize(base/overlays), HPA 재튜닝, **Trivy 보안 스캔**(완전 GitOps 자동화)
-- **멀티 LLM 추상화** — Gemini·OpenAI·Claude·xAI를 LangChain/LangGraph로 교체 유연화
-- **다국어 자동 번역** 시스템 백엔드 구축
+### 🥕 VegRun(베지런) — Godot 모바일 게임 · **Android·Google Play 연동/출시 담당(팀)**
+`팀 프로젝트` · `2026.07 ~ 2026.09` · `Godot · GDScript · Google Play`
+- **Play 게임즈 로그인 + 클라우드 세이브** — 충돌 시 진행도 우선·유료 항목 보존 규칙
+- **인앱 결제** — 결제 성공 콜백 뒤에만 지급, 보류·취소 시 미지급, 현지 가격 실시간 표시
+- **보상형 광고(AdMob)** · 서명 AAB 빌드 스크립트 · **9개 언어 스토어 등록** → 프로덕션 심사 제출
+- 광고·결제·세이브 회귀 프로브(각 30여 단언)
 
 ### 🔵 AI 캐릭터 음성 대화 서비스 · **단독**
 `전 직장(바이브에듀)` · `FastAPI · pgvector · LLM · TTS · 3D(VRM)`
@@ -184,8 +184,8 @@ Python/FastAPI · React · AWS(EKS/GitOps) · LLM 통합까지 폭넓게 다룹�
 ## 📈 GitHub
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=leehh0221&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leehh0221&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="160" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="160" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
-<!-- 작성: 260928-2. GitHub stats 위젯은 public 활동 위주로 집계됨. -->
+<!-- 작성: 260928-3. 통계 카드는 .github/workflows/readme-stats.yml 이 매일 생성한다. -->
