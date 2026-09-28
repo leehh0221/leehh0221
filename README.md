@@ -3,8 +3,8 @@
 ### 백엔드 · 인프라(DevOps) · AI 풀스택 개발자
 
 Java/Spring 백엔드로 시작해 결제·대규모 도메인을 **리드**했고,
-현재는 **Python/FastAPI · React · AWS(EKS/GitOps) · LLM 통합**까지 폭넓게 다룹니다.
-AI 기술을 실제 제품으로 구현하는 데 집중하며, 새 기술을 빠르게 시도·적용합니다.
+Python/FastAPI · React · AWS(EKS/GitOps) · LLM 통합까지 폭넓게 다룹니다.
+지금은 **AI 모델 연구·개발과 웹서비스 개발**을 하고, 직접 운영하는 서비스와 팀 프로젝트도 끝까지 출시합니다.
 
 ![Microsoft AI 엔지니어 2기 우수수료생](https://img.shields.io/badge/🏆_Microsoft_AI_엔지니어_2기-우수수료생_(40명_중_1명)-0078D4?style=for-the-badge)
 
@@ -22,6 +22,8 @@ AI 기술을 실제 제품으로 구현하는 데 집중하며, 새 기술을 �
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
 **Frontend**
@@ -37,6 +39,7 @@ AI 기술을 실제 제품으로 구현하는 데 집중하며, 새 기술을 �
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
 
@@ -47,6 +50,7 @@ AI 기술을 실제 제품으로 구현하는 데 집중하며, 새 기술을 �
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 **AI / LLM**
 
@@ -57,6 +61,12 @@ AI 기술을 실제 제품으로 구현하는 데 집중하며, 새 기술을 �
 ![RAG / 임베딩](https://img.shields.io/badge/RAG_·_임베딩-5A67D8?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
 
+**Mobile / Game**
+
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
+![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)
+
 ---
 
 ## 📊 숙련도
@@ -64,8 +74,8 @@ AI 기술을 실제 제품으로 구현하는 데 집중하며, 새 기술을 �
 | 숙련도 | 기술 |
 |:---|:---|
 | **상** | Python/FastAPI · Java/Spring · AWS · IaC/GitOps(ArgoCD·Kustomize) · Docker/CI·CD · PostgreSQL · MySQL |
-| **중상** | TypeScript/React/Next.js · LLM 통합(RAG·멀티프로바이더) · WebSocket/Redis Pub·Sub · 관측성(Prometheus/OTel) · MCP 툴링 |
-| **중** | Three.js / 3D |
+| **중상** | TypeScript/React/Next.js · Node.js/Express · LLM 통합(RAG·멀티프로바이더) · Supabase · WebSocket/Redis Pub·Sub · 관측성(Prometheus/OTel) · MCP 툴링 |
+| **중** | Godot · Google Play 연동(결제·광고·로그인) · Three.js / 3D |
 
 ---
 
@@ -73,7 +83,8 @@ AI 기술을 실제 제품으로 구현하는 데 집중하며, 새 기술을 �
 
 | 회사 | 기간 | 역할 |
 |:---|:---|:---|
-| **(주)바이브에듀** | 2025.12 ~ 재직중 | AI 솔루션팀 · **AI PRO FDE** — 백엔드 · 프론트엔드 · 인프라 |
+| **재직 중 (비공개)** | 2026.07 ~ 재직중 | **AI PRO** — AI 모델 연구·개발 · 웹서비스 개발 |
+| **(주)바이브에듀** | 2025.12 ~ 2026.05 | AI 솔루션팀 · **AI PRO FDE** — 백엔드 · 프론트엔드 · 인프라 |
 | **(주)예자일** | 2023.10 ~ 2025.05 | 백엔드 (vingbeing 리드) |
 
 ---
@@ -111,22 +122,46 @@ AI 기술을 실제 제품으로 구현하는 데 집중하며, 새 기술을 �
 - **CI/CD & 배포 전환** — GitHub Actions → ECR → **ECS** 자동 배포 구축, 이후 **비용 절감을 위해 EC2·docker-compose로 통합** · 병렬 테스트(test1/test2)로 테스트 시간 **약 50%↓**
 
 ### 🟣 [TypingX](https://typx.ai) — AI 인터랙티브 콘텐츠 생성 플랫폼 · **백/프론트/인프라 주도(팀)**
-`현 직장` · `FastAPI · React · AWS EKS · 멀티 LLM`
+`전 직장(바이브에듀)` · `FastAPI · React · AWS EKS · 멀티 LLM`
 - **인프라 비용 최적화** — EKS **노드 3→1**, 미사용 DocumentDB 제거(−$270/월), 관측성 정리(CloudWatch·AMP −$100/월) → **월 운영비 대폭 절감**
 - **무중단 GitOps 운영** — ArgoCD + Kustomize(base/overlays), HPA 재튜닝, **Trivy 보안 스캔**(완전 GitOps 자동화)
 - **멀티 LLM 추상화** — Gemini·OpenAI·Claude·xAI를 LangChain/LangGraph로 교체 유연화
 - **다국어 자동 번역** 시스템 백엔드 구축
 
 ### 🔵 AI 캐릭터 음성 대화 서비스 · **단독**
-`현 직장` · `FastAPI · pgvector · LLM · TTS · 3D(VRM)`
+`전 직장(바이브에듀)` · `FastAPI · pgvector · LLM · TTS · 3D(VRM)`
 - **응답 속도 개선** — RAG MMR numpy 벡터화로 첫 응답 **4초 → ~1.4초**
 - **RAG 파이프라인 직접 설계** — pgvector cosine + MMR + 최신가중 + 키워드 하이브리드
 - NDJSON 스트리밍 · 임베딩 병렬화 · 15개국어 · 감정 엔진 · 자동 이동
 
 ### 🟠 실시간 강의 번역 서비스 · **단독**
-`현 직장` · `WebSocket · Redis Pub/Sub · Google STT v2 · Gemini`
+`전 직장(바이브에듀)` · `WebSocket · Redis Pub/Sub · Google STT v2 · Gemini`
 - 한국어 음성 → STT → **전공용어 보정** → LLM 번역 → **언어별 실시간 자막 팬아웃**
 - 어댑터 패턴으로 STT/번역 provider 교체 구조화, e2e 검증(백엔드 72 tests green)
+
+---
+
+## 🧩 사이드 · 팀 프로젝트
+
+### 🛒 [절친마켓](https://bf-market.com) — 1인 가구 동네 공동구매 플랫폼 · **개발 전담(2인 팀)**
+`2026.07 ~ MVP 운영 중` · `TypeScript · Express · React · PostgreSQL · AWS`
+- **풀스택 1인 개발** — pnpm 모노레포, **OpenAPI 계약 우선**(Orval 코드 생성) · Drizzle ORM · PR **214건**
+- **자체 인프라 운영** — Replit 프로토타입을 **AWS EC2 docker-compose 단일 박스**로 이전 (nginx · Let's Encrypt · **wal-g S3 백업/PITR**)
+- **보안·개인정보** — 어드민 역할 권한 2단 구조(가드가 빠지면 닫히는 쪽으로), 개인정보 접속기록, S3 presigned 업로드
+- 구글·카카오 로그인 · 문자 알림 · 픽업/배달 · 선입금·환불 흐름
+
+### 🥕 VegRun(베지런) — Godot 모바일 게임 · **Android·Google Play 연동/출시 담당(팀)**
+`2026.07 ~ 2026.09` · `Godot · GDScript · Google Play`
+- **Play 게임즈 로그인 + 클라우드 세이브** — 충돌 시 진행도 우선·유료 항목 보존 규칙
+- **인앱 결제** — 결제 성공 콜백 뒤에만 지급, 보류·취소 시 미지급, 현지 가격 실시간 표시
+- **보상형 광고(AdMob)** · 서명 AAB 빌드 스크립트 · **9개 언어 스토어 등록** → 프로덕션 심사 제출
+- 광고·결제·세이브 회귀 프로브(각 30여 단언)
+
+### 📋 워플(Weple) — 오프라인 매장 현장 운영 기록 앱 · **시안 구현·서버·배포(K-해커톤 팀)**
+`2026.08` · `PWA · Supabase(PostgreSQL · RLS · Realtime) · Playwright`
+- Figma 시안 20장을 PWA로 구현 — **시안 대조 테스트**(요소 64곳 위치·크기·색) · E2E 107건
+- Supabase로 운영 앱 전환 — **행 단위 접근 규칙(RLS)**, 결제대 · 실시간 현황판 · QR · 오프라인 대비
+- PR마다 스키마를 실제 Postgres에 올려 보는 CI · **이틀간 행사 부스에서 실제 운영**
 
 ---
 
@@ -134,6 +169,12 @@ AI 기술을 실제 제품으로 구현하는 데 집중하며, 새 기술을 �
 
 **[local-semantic-memory](https://github.com/leehh0221/local-semantic-memory)** — 로컬 시맨틱 메모리 **MCP 서버**
 > Qdrant · Ollama `bge-m3` · FastMCP — 의미 기반 검색 메모리, MCP 툴 9개.
+
+**knowledge-hub** — 하이브리드 검색 지식 저장소 (CLI + **MCP**)
+> Supabase Postgres · **pgvector + PGroonga(RRF)** · OpenAI 임베딩 — 뜻과 글자로 같이 찾기, 바뀐 것만 다시 임베딩, AI 작업 세션 자동 기록.
+
+**cli-orchestration** — Discord로 제어하는 로컬 **멀티 에이전트** CLI
+> Python · discord.py · MCP — Claude Code 지휘자가 Codex·Antigravity CLI에 일을 나눠 맡기고, 위험한 명령은 버튼으로 승인.
 
 **simvex** — 3D 기계부품 분해 학습 플랫폼 `해커톤`
 > Next.js · Three.js/R3F · Supabase · OpenAI — GLB 분해 뷰어 + 학습(노트/퀴즈/PDF).
@@ -147,5 +188,4 @@ AI 기술을 실제 제품으로 구현하는 데 집중하며, 새 기술을 �
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leehh0221&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
-<!-- 작성: 260629-1 (ADSP 자격증 추가). 공개 허용: TypingX(typx.ai), vingbeing(vingbeing.com). 그 외 회사 제품명은 일반화 유지.
-     GitHub stats 위젯: 회사/조직 private 기여는 기본 미집계 — public 활동 위주로 표시됨. -->
+<!-- 작성: 260928-1. GitHub stats 위젯은 public 활동 위주로 집계됨. -->
