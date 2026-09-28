@@ -1,6 +1,6 @@
 # 안녕하세요, 이환희입니다 👋
 
-### 백엔드 · 인프라(DevOps) · AI 풀스택 개발자
+### AI · 인프라(DevOps) · 백엔드 풀스택 개발자
 
 Java/Spring 백엔드로 시작해 결제·대규모 도메인을 **리드**했고,
 Python/FastAPI · React · AWS(EKS/GitOps) · LLM 통합까지 폭넓게 다룹니다.
@@ -191,4 +191,4 @@ Python/FastAPI · React · AWS(EKS/GitOps) · LLM 통합까지 폭넓게 다룹�
   <img height="160" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
-<!-- 작성: 260928-5. 통계 카드는 .github/workflows/readme-stats.yml 이 매일 생성한다. -->
+<!-- 작성: 260928-6. 통계 카드는 .github/workflows/readme-stats.yml 이 매일 생성한다. -->
