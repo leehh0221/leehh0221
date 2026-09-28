@@ -114,6 +114,20 @@ Python/FastAPI · React · AWS(EKS/GitOps) · LLM 통합까지 폭넓게 다룹�
 
 ## 🚀 대표 경험
 
+### 🛒 [절친마켓](https://bf-market.com) — 1인 가구 동네 공동구매 플랫폼 · **개발 전담(2인 팀)**
+`사이드 프로젝트` · `2026.07 ~ 운영 중` · `TypeScript · Express · React · PostgreSQL · AWS`
+- **풀스택 1인 개발** — pnpm 모노레포, **OpenAPI 계약 우선**(Orval 코드 생성) · Drizzle ORM · PR **214건**
+- **자체 인프라 운영** — Replit 프로토타입을 **AWS EC2 docker-compose 단일 박스**로 이전 (nginx · Let's Encrypt · **wal-g S3 백업/PITR**)
+- **보안·개인정보** — 어드민 역할 권한 2단 구조(가드가 빠지면 닫히는 쪽으로), 개인정보 접속기록, S3 presigned 업로드
+- 구글·카카오 로그인 · 문자 알림 · 픽업/배달 · 선입금·환불 흐름
+
+### 🥕 VegRun(베지런) — Godot 모바일 게임 · **Android·Google Play 연동/출시 담당(팀)**
+`팀 프로젝트` · `2026.07 ~ 2026.09` · `Godot · GDScript · Google Play`
+- **Play 게임즈 로그인 + 클라우드 세이브** — 충돌 시 진행도 우선·유료 항목 보존 규칙
+- **인앱 결제** — 결제 성공 콜백 뒤에만 지급, 보류·취소 시 미지급, 현지 가격 실시간 표시
+- **보상형 광고(AdMob)** · 서명 AAB 빌드 스크립트 · **9개 언어 스토어 등록** → 프로덕션 심사 제출
+- 광고·결제·세이브 회귀 프로브(각 30여 단언)
+
 ### 🟢 [vingbeing](https://vingbeing.com) — 로컬 경험 예약·결제 플랫폼 · **백엔드 리드**
 `전 직장(예자일)` · `재직 1년 8개월 + 퇴사 후 유지보수 지속` · `Java / Spring Boot · MySQL · QueryDSL`
 - **대규모 도메인 설계·운영** — 30개 도메인 · 60+ 테이블 · ~216 API (프로젝트 2,222 커밋, 본인 **84%**)
@@ -142,20 +156,6 @@ Python/FastAPI · React · AWS(EKS/GitOps) · LLM 통합까지 폭넓게 다룹�
 ---
 
 ## 🧩 사이드 · 팀 프로젝트
-
-### 🛒 [절친마켓](https://bf-market.com) — 1인 가구 동네 공동구매 플랫폼 · **개발 전담(2인 팀)**
-`2026.07 ~ MVP 운영 중` · `TypeScript · Express · React · PostgreSQL · AWS`
-- **풀스택 1인 개발** — pnpm 모노레포, **OpenAPI 계약 우선**(Orval 코드 생성) · Drizzle ORM · PR **214건**
-- **자체 인프라 운영** — Replit 프로토타입을 **AWS EC2 docker-compose 단일 박스**로 이전 (nginx · Let's Encrypt · **wal-g S3 백업/PITR**)
-- **보안·개인정보** — 어드민 역할 권한 2단 구조(가드가 빠지면 닫히는 쪽으로), 개인정보 접속기록, S3 presigned 업로드
-- 구글·카카오 로그인 · 문자 알림 · 픽업/배달 · 선입금·환불 흐름
-
-### 🥕 VegRun(베지런) — Godot 모바일 게임 · **Android·Google Play 연동/출시 담당(팀)**
-`2026.07 ~ 2026.09` · `Godot · GDScript · Google Play`
-- **Play 게임즈 로그인 + 클라우드 세이브** — 충돌 시 진행도 우선·유료 항목 보존 규칙
-- **인앱 결제** — 결제 성공 콜백 뒤에만 지급, 보류·취소 시 미지급, 현지 가격 실시간 표시
-- **보상형 광고(AdMob)** · 서명 AAB 빌드 스크립트 · **9개 언어 스토어 등록** → 프로덕션 심사 제출
-- 광고·결제·세이브 회귀 프로브(각 30여 단언)
 
 ### 📋 워플(Weple) — 오프라인 매장 현장 운영 기록 앱 · **시안 구현·서버·배포(K-해커톤 팀)**
 `2026.08` · `PWA · Supabase(PostgreSQL · RLS · Realtime) · Playwright`
@@ -188,4 +188,4 @@ Python/FastAPI · React · AWS(EKS/GitOps) · LLM 통합까지 폭넓게 다룹�
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leehh0221&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
-<!-- 작성: 260928-1. GitHub stats 위젯은 public 활동 위주로 집계됨. -->
+<!-- 작성: 260928-2. GitHub stats 위젯은 public 활동 위주로 집계됨. -->
